@@ -1,0 +1,13 @@
+#+TITLE: mendako-bocchi-mode :: A Running Mendako Bocchi in Emacs Header Line
+#+AUTHOR: CToID
+#+OPTIONS: toc:nil num:nil
+
+[[file:bocchi.gif]]
+
+Install it via the following command:
+: M-x package-install-file <RET> PATH/TO/THE/REPO/mendako-bocchi.el <RET>
+
+This package has a customisation group named ~mendako-bocchi~, user-customisable
+options are in there.
+
+The artwork of Bocchi is taken from [[https://www.pixiv.net/artworks/107506106][here]].
